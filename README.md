@@ -17,7 +17,9 @@ Here's the little ASCII animating pack i made that's easy to use!
   
   Run the program:
     1-Name your animation to whatever you want
+    
     2-Type which fps do you want your animation(Only type number or it will throw error)
+    
     3-When it finished you will have your **Animname**.py at the ExportedAnim folder
     
 I hope this is a fun tool!
